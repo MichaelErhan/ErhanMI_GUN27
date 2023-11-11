@@ -1,1 +1,0 @@
-# ErhanMI_GUN27
