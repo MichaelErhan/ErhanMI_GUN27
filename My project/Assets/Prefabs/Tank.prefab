@@ -1170,9 +1170,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _wheels:
   - {fileID: 5247106698878326484}
-  - {fileID: 6694349827724461179}
-  - {fileID: 5282247313007069636}
   - {fileID: 320222728281083562}
+  - {fileID: 5282247313007069636}
+  - {fileID: 6694349827724461179}
   _skidAudioSource: {fileID: 5455138055912803656}
   _transmission: {fileID: 11400000, guid: 3da11da94653c7c499c4b9efb14e6a4d, type: 2}
   _maxSteerAngle: 25
